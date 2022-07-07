@@ -1,0 +1,2 @@
+# TriNit_Aarogya
+Aarogya-bot is a discord chatbot that collects and delivers factual and validated information from the World Health Organization (WHO) in order to raise awareness about the coronavirus pandemic and to push social media sites to combat the propagation of disinformation. It can create answers to frequent inquiries, such as how the virus spreads or what the most prevalent and serious symptom is, thanks to the application of Artificial Intelligence (AI).
