@@ -5,4 +5,8 @@ predict if a person has Covid, Lung Opacity, or Pneumonia just by looking at the
 
 • This model can give results with an accuracy of 90 percent.
 
-• Model was trained using TensorFlow, with about 15 convolutional layers. And used USE for text communication
+TechStack :
+-Tensorflow for Natural Language Processing,with about 15 convolutional layers. 
+-USE for text communication.
+
+
